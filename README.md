@@ -125,4 +125,4 @@ Ai_Brain.predict(x_n1_1)
 
 ## RESULT
 
-thus the program executed successfully
+Thus the program executed successfully
