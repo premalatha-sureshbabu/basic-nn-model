@@ -10,7 +10,8 @@ To build a neural network regression model for predicting a continuous target va
 
 ## Neural Network Model
 
-![nn ex 1](https://github.com/user-attachments/assets/5ac98df1-0b2b-40a4-84b9-a1abba63a49c)
+![362769063-5ac98df1-0b2b-40a4-84b9-a1abba63a49c](https://github.com/user-attachments/assets/403b88df-7770-4560-adc7-b736e1b3e25b)
+
 
 ## DESIGN STEPS
 
@@ -91,23 +92,27 @@ ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
 
-![dataset](https://github.com/user-attachments/assets/c92fa336-f5d4-4db5-95ea-1c1006161c0e)
+![360742718-c92fa336-f5d4-4db5-95ea-1c1006161c0e](https://github.com/user-attachments/assets/39ef3182-1f7f-44dc-ae28-db5aa79c7f4b)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![output](https://github.com/user-attachments/assets/5973e5e6-a392-48b4-acd2-4dceee59d90c)
+![360742283-5973e5e6-a392-48b4-acd2-4dceee59d90c](https://github.com/user-attachments/assets/4b9ea639-f759-4cb9-ade0-8bf370c19fb2)
+
 
 
 ### Test Data Root Mean Squared Error
 
-![output](https://github.com/user-attachments/assets/7031e3ee-70ca-4ed2-af4d-251eec1449bc)
+![360743822-7031e3ee-70ca-4ed2-af4d-251eec1449bc](https://github.com/user-attachments/assets/3e46581a-7d15-478a-b9fe-a4e421cd445f)
+
 
 ### New Sample Data Prediction
 
-![output](https://github.com/user-attachments/assets/68d14b8c-82d0-4bcb-9605-8cfb8c48f18d)
+![360744282-68d14b8c-82d0-4bcb-9605-8cfb8c48f18d](https://github.com/user-attachments/assets/328df461-7f1f-4b0b-b59a-7f66790947c0)
+
 
 ## RESULT
 
